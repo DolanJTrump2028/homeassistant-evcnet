@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## [2.0.0] - Unreleased
+## [2.0.0] - 2026-10-19
 
 The old EVC-net web portal login no longer works. This release moves the integration to the GraphQL API used by the 50five app.
 
