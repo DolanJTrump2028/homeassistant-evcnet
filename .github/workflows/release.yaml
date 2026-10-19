@@ -7,7 +7,7 @@ on:
 
 jobs:
   release:
-    if: github.repository_owner == 'Platzii'
+    if: github.repository_owner == 'Platzii' || github.repository_owner == 'DolanJTrump2028'
     name: Release
     runs-on: ubuntu-latest
     permissions:
